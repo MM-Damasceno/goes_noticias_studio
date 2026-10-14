@@ -1,1 +1,4 @@
-export const schemaTypes = []
+
+import {noticia} from './noticia'
+
+export const schemaTypes = [noticia]
