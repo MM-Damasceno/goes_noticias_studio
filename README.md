@@ -2,7 +2,7 @@
 
 Painel de publicação do **Góes Notícias**, o site de notícias do Colégio Estadual Góes Calmon. É aqui que professores escrevem, editam e publicam as notícias que aparecem no site.
 
-🔗 **Painel no ar:** [PREENCHER: endereço do Studio, termina em .sanity.studio]
+🔗 **Painel no ar:** [Paineil](https://goesnoticias.sanity.studio/)
 🔗 **Código do site:** [github.com/MM-Damasceno/goesnoticias_site](https://github.com/MM-Damasceno/goesnoticias_site)
 
 ## Tecnologias
